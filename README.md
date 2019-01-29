@@ -2,31 +2,33 @@
 # 重要的光伏和储能软件资源
 
 Curated lists of APIs, SDKs, paltforms, tools, datasets and academic refrences relevant to solar energy and energy storage software. Categories include: Design & engineering, Finance, Monitoring & Billing, Project Management, Automated Paperwork, etc.
+
 与太阳能和储能软件相关的API、sdk、palt成器、工具、数据集和学术数据集的设计清单。类别包括: 设计与工程、财务、监控计费、项目管理、自动化文书工作等。
 
 The ultimate goal of this open source project is for software engineers in the industry and academia to share resources for the benefit of all.
+
 这个开源项目的最终目标是让业界和学术界的软件工程师分享资源, 造福于所有人。
 
 # APIs and SDKs: System Design & Enegineering 
 # 应用程序接口和软件包: 系统设计和工程
 
-- [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/) 需梯子
+- [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/) PV Watts 网站，需梯子
 - [System Advisor Model SDK](https://sam.nrel.gov/)  美国可再生能源工作室开发的一套光伏软件包SAM
 
 # Platforms and Tools: Design & Enegineering
 # 平台和工具：设计和工程
 
-- [PV Watts](http://pvwatts.nrel.gov/) 需梯子
+- [PV Watts](http://pvwatts.nrel.gov/) PV Watts 网站，需梯子
 - [Solarius PV](http://www.accasoftware.com/en/id55/solar-pv-system-design.html) 美国可再生能源工作室开发的一套光伏软件包SAM
 - [PV System Size Estimator](http://villagepower.com/powertools/)
 - [Utility Rates in USA](http://villagepower.com/powertools/utility-rates/)
 - [Solar Radiation Estimator](http://villagepower.com/powertools/solar-irradiance/)
 - [System Production Estimator](http://villagepower.com/powertools/system-production/)
-- [Homer Energy](http://www.homerenergy.com/HOMER_legacy.html)
-- [PV Syst](http://www.pvsyst.com/en/software)
+- [Homer Energy](http://www.homerenergy.com/HOMER_legacy.html) 微电网设计软件
+- [PV Syst](http://www.pvsyst.com/en/software) 光伏设计软件
 - [NREL System Advisor Model](https://sam.nrel.gov/)
 - [RETScreen](http://www.retscreen.net/ang/home.php)
-- [Energy Toolbase](https://www.energytoolbase.com/)
+- [Energy Toolbase](https://www.energytoolbase.com/) 
 - [PV Powerhouse: design and generation of mount system components](http://secure.schletter.us/calculator/index.php)
 - [PV Groundbreaker: estimate peak power for PV ground mount systems](http://http://www.pvgroundbreaker.com/)
 - [Helios 3D: PV plant design and engineering](http://www.schletter.us/helios-3d.html)
