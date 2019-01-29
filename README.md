@@ -1,18 +1,23 @@
 # Essential Solar and Energy Storage Software Resources
+# 重要的光伏和储能软件资源
 
 Curated lists of APIs, SDKs, paltforms, tools, datasets and academic refrences relevant to solar energy and energy storage software. Categories include: Design & engineering, Finance, Monitoring & Billing, Project Management, Automated Paperwork, etc.
+与太阳能和储能软件相关的API、sdk、palt成器、工具、数据集和学术数据集的设计清单。类别包括: 设计与工程、财务、监控计费、项目管理、自动化文书工作等。
 
 The ultimate goal of this open source project is for software engineers in the industry and academia to share resources for the benefit of all.
+这个开源项目的最终目标是让业界和学术界的软件工程师分享资源, 造福于所有人。
 
 # APIs and SDKs: System Design & Enegineering 
+# 应用程序接口和软件包: 系统设计和工程
 
-- [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/)
-- [System Advisor Model SDK](https://sam.nrel.gov/)
+- [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/) 需梯子
+- [System Advisor Model SDK](https://sam.nrel.gov/)  美国可再生能源工作室开发的一套光伏软件包SAM
 
 # Platforms and Tools: Design & Enegineering
+# 平台和工具：设计和工程
 
-- [PV Watts](http://pvwatts.nrel.gov/)
-- [Solarius PV](http://www.accasoftware.com/en/id55/solar-pv-system-design.html)
+- [PV Watts](http://pvwatts.nrel.gov/) 需梯子
+- [Solarius PV](http://www.accasoftware.com/en/id55/solar-pv-system-design.html) 美国可再生能源工作室开发的一套光伏软件包SAM
 - [PV System Size Estimator](http://villagepower.com/powertools/)
 - [Utility Rates in USA](http://villagepower.com/powertools/utility-rates/)
 - [Solar Radiation Estimator](http://villagepower.com/powertools/solar-irradiance/)
@@ -121,3 +126,5 @@ The ultimate goal of this open source project is for software engineers in the i
 
 - [IEEE PV Specialists Conference](www.ieee-pvsc.org/)
 - [EU PV Solar Energy Conference](https://www.photovoltaic-conference.com/)
+
+# 2019.01.29 gsepcsj translated into Chinese
